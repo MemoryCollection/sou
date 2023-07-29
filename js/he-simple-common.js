@@ -1,9 +1,9 @@
 (function (d) {
   var c = d.createElement('link')
   c.rel = 'stylesheet'
-  c.href = 'https://sou.36g.top/css/he-simple.css?v=1.4.0'
+  c.href = 'https://sou.c82.top/css/he-simple.css?v=1.4.0'
   var s = d.createElement('script')
-  s.src = 'https://sou.36g.top/js/he-simple.js?v=1.4.0'
+  s.src = 'https://sou.c82.top/js/he-simple.js?v=1.4.0'
   var sn = d.getElementsByTagName('script')[0]
   sn.parentNode.insertBefore(c, sn)
   sn.parentNode.insertBefore(s, sn)
