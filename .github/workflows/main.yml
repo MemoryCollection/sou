@@ -2,7 +2,7 @@ name: 背景图更新
   
 on:    
   schedule:    
-    - cron: '0 16 * * *' # 每天下午4点（UTC时间）运行一次  
+  #  - cron: '0 16 * * *' # 每天下午4点（UTC时间）运行一次  
   workflow_dispatch: # 支持手动触发  
   
 jobs:    
